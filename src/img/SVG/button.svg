@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 609.38 609.38">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        fill: #1affde;
+      }
+
+      .cls-6 {
+        fill: #d9fffc;
+      }
+
+      .cls-7 {
+        fill: #f9be06;
+      }
+
+      .cls-3 {
+        font-size: 105.05px;
+      }
+
+      .cls-3, .cls-4 {
+        font-family: NotoSans-Bold, 'Noto Sans';
+        font-weight: 700;
+        text-decoration: underline;
+      }
+
+      .cls-8 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-4 {
+        font-size: 103.39px;
+      }
+    </style>
+  </defs>
+  <circle class="cls-6" cx="304.69" cy="304.69" r="304.69"/>
+  <circle class="cls-5" cx="304.69" cy="303.66" r="228.52"/>
+  <text class="cls-4" transform="translate(145.05 303.66) scale(1.05 1)"><tspan x="0" y="0">S</tspan><tspan class="cls-1" x="56.97" y="0">T</tspan><tspan x="109.6" y="0">ART</tspan></text>
+  <rect class="cls-2" x="95.2" y="348.06" width="418.98" height="18.36"/>
+  <text class="cls-3" transform="translate(181.38 468.56) scale(.9 1)"><tspan x="0" y="0">S</tspan><tspan class="cls-8" x="57.88" y="0">T</tspan><tspan x="116.6" y="0">OP</tspan></text>
+  <path class="cls-7" d="m267.87,148.42h71.86s4.73-.24,8.38,6.98c3.64,7.22-1.82,15.89-6.68,16.37-4.86.48-73.56.6-73.56.6,0,0-4.49-1.2-6.19-5.18-1.7-3.97-2.06-8.67-.97-11.31,1.09-2.65,2.91-6.26,7.16-7.46Z"/>
+</svg>
